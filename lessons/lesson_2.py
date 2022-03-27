@@ -1,10 +1,10 @@
 # lesson 2
 # types
 
-integer = int
-float = float
-string = str
-boolean = bool
+# integer = int
+# float = float
+# string = str
+# boolean = bool
 
 #   comment
 my_int = 15  # int
