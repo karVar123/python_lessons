@@ -2,7 +2,7 @@ class Home:
     def __init__(self):
         pass
 
-    def fun1(self):
+    def __fun1(self):
         return "fun 1 is working "
 
     def fun2(self):
@@ -21,3 +21,4 @@ print(home.fun1())
 print(home.fun2())
 print(home.fun3())
 print(home.fun4())
+
